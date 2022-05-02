@@ -1,0 +1,14 @@
+[package]
+authors = ["Brad Gibson <brad@tpfs.io>", "Michael Gerhaeuser <michael.gerhaeuser@gmail.com>"]
+categories = []
+edition = "2018"
+keywords = []
+license = "MIT OR Apache-2.0"
+name = "rust"
+readme = "README.md"
+repository = "https://github.com/u007d/gilded_rose"
+version = "0.1.0"
+
+[dev-dependencies]
+proptest = "0.9.4"
+rand = "0.7.2"
